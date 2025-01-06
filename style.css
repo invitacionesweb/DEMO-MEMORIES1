@@ -401,6 +401,10 @@ footer img {
     flex-direction: column;
     
 }
+.rsvp {
+    height: 60vh;
+   
+}
     .information-bloque p {
         max-width: 260px;
     }
