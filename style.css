@@ -401,8 +401,12 @@ footer img {
     flex-direction: column;
     
 }
+.timeline p {
+    font-size: 1.3rem;
+
+}
 .rsvp {
-    height: 60vh;
+    height: 0vh;
    
 }
     .information-bloque p {
